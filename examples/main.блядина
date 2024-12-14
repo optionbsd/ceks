@@ -1,6 +1,0 @@
-спизди <stdio.h>
-
-сколько main() {
-    printf("Hello, world!");
-    пизданиответ 0;
-}
